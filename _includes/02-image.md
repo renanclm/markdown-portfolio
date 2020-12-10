@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Seismic Wave](http://bingweb.binghamton.edu/~jbarker/animations/wave.gif)
