@@ -1,0 +1,1 @@
+![Seismic Wave](http://bingweb.binghamton.edu/~jbarker/animations/wave.gif)
